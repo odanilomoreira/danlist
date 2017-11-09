@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DanList</string>
+
+    <string-array name="Categoria">
+        <item>Trabalho</item>
+        <item>Casa</item>
+        <item>Festa</item>
+        <item>Escola</item>
+    </string-array>
+
 </resources>
